@@ -1,0 +1,5 @@
+magneticPowerTooLowForPlate (Boolean)
+beltIsBroken (Boolean)
+PlateNotInPlace (Boolean)
+robotsAreBroken (Boolean)
+shelfSensorIsBroken (Boolean)
