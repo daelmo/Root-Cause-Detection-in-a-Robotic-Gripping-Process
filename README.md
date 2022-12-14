@@ -18,4 +18,4 @@ This has no influence on the root cause detection algorithm. Only the datasets i
 
 `causal graph` includes the adjacency matrix of the true causal graph, and simple lists about the measured features and the inspected rootcauses.
 
-`datasets` includes the normal and two data sets including faults produced by root causes.
+`datasets` includes the normal dataset and two datasets including faults produced by root causes.
