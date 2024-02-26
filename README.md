@@ -25,6 +25,8 @@ The notebook 'Calculate JRCS.ipynb' contains the Python Code.
 
 Cite the work as:
 
+```
+
 @inproceedings{rehak2023counterfactual,
   title={Counterfactual Root Cause Analysis via Anomaly Detection and Causal Graphs},
   author={Rehak, Josephine and Sommer, Anouk and Becker, Maximilian and Pfrommer, Julius and Beyerer, J{\"u}rgen},
@@ -33,4 +35,4 @@ Cite the work as:
   year={2023},
   organization={IEEE}
 }
-
+```
