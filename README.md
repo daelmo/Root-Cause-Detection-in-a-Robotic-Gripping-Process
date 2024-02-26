@@ -1,4 +1,4 @@
-# Root-Cause-Detection-in-a-Robotic-Gripping-Process
+# Counterfactual Root Cause Analysis via Anomaly Detection and Causal Graphs
 
 
 This repository contains datasets with and without anomalies, plots, videos and the causal graph of a robotic gripping process.
@@ -11,6 +11,7 @@ This has no influence on the root cause detection algorithm. Only the datasets i
 
 
 ### Repository Structure
+The notebook 'Calculate JRCS.ipynb' contains the Python Code.
 
 `videos` includes the videos for the normal and one anormal scenario.
 
@@ -19,3 +20,17 @@ This has no influence on the root cause detection algorithm. Only the datasets i
 `causal graph` includes the adjacency matrix of the true causal graph, and simple lists about the measured features and the inspected rootcauses.
 
 `datasets` includes the normal dataset and two datasets including faults produced by root causes.
+
+### Citation
+
+Cite the work as:
+
+@inproceedings{rehak2023counterfactual,
+  title={Counterfactual Root Cause Analysis via Anomaly Detection and Causal Graphs},
+  author={Rehak, Josephine and Sommer, Anouk and Becker, Maximilian and Pfrommer, Julius and Beyerer, J{\"u}rgen},
+  booktitle={2023 IEEE 21st International Conference on Industrial Informatics (INDIN)},
+  pages={1--7},
+  year={2023},
+  organization={IEEE}
+}
+
