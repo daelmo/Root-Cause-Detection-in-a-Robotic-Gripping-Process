@@ -1,5 +1,6 @@
 # Counterfactual Root Cause Analysis via Anomaly Detection and Causal Graphs
 
+This work was published in this [publication](https://doi.org/10.1109/INDIN51400.2023.10218245).
 
 This repository contains datasets with and without anomalies, plots, videos and the causal graph of a robotic gripping process.
 
